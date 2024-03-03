@@ -4,7 +4,7 @@ from fastapi import FastAPI, HTTPException
 app = FastAPI()
 
 masters = [
-    {"name": "Ivan",
+    {"name": "James",
      "surname": "Trololo",
      "city": "Prague",
      "language": "Ru/Cz",
